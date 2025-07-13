@@ -1,2 +1,2 @@
 # DuAnCoVua
-Cờ vua truyền thống
+Chạy bằng Visual Studio 2022
